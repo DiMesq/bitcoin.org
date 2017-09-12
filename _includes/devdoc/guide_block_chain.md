@@ -104,7 +104,7 @@ no way to modify the data to make the hash number predictable.
 To prove you did some extra work to create a block, you must create a
 hash of the block header which does not exceed a certain value. For
 example, if the maximum possible hash value is <span
-class="math">2<sup>256</sup> − 1</span>, you can prove that you
+class="math">2<sup>256 − 1</sup></span>, you can prove that you
 tried up to two combinations by producing a hash value less than <span
 class="math">2<sup>255</sup></span>.
 
